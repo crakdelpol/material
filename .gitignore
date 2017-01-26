@@ -1,8 +1,7 @@
-*.log
-.DS_Store
-node_modules
-dist
-/.idea/
-.nvmrc
-tmp/
-.editorconfig
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
